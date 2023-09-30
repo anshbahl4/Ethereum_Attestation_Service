@@ -1,7 +1,7 @@
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
 
-const MNEMONIC = "leisure aunt arm pond camera solar race control alter tent ramp tobacco";
+const MNEMONIC = "leisure aunt arm pond camera solrw is too hot and rendal";
 const INFURA_PROJECT_ID = "5423bb2412d74b45b798930ec6f66af9";
 
 module.exports = {
